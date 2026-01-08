@@ -30,7 +30,7 @@
       <td>5,200</td>
       <td>1,600</td>
       <td>1,200</td>
-      <td><a href="XXX">link</a></td>
+      <td><a href="https://pan.baidu.com/s/1FMrIsNS_WPx9fzPDl4ni_Q?pwd=dfyi">link</a></td>
     </tr>
     <tr>
       <td>DUT-Plus</td>
@@ -38,15 +38,15 @@
       <td>7,000</td>
       <td>4,000</td>
       <td>3,000</td>
-      <td><a href="XXX">link</a></td>
+      <td><a href="https://pan.baidu.com/s/1FMrIsNS_WPx9fzPDl4ni_Q?pwd=dfyi">link</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wangdongdut/DUT-Anti-UAV">Det-Fly</a></td>
+      <td><a href="https://github.com/Jake-WU/Det-Fly">Det-Fly</a></td>
       <td align="left">Contains over 13,000 high-resolution 4K aerial images. Long-range imaging causes targets to occupy &lt;5% of image area, reducing discriminative features.</td>
       <td>7,962</td>
       <td>2,654</td>
       <td>2,654</td>
-      <td>-</td>
+      <td>--</td>
     </tr>
   </tbody>
 </table>
@@ -78,7 +78,7 @@
       <td>58.1</td>
       <td>89.4</td>
       <td>66.4</td>
-      <td><a href="https://pan.baidu.com/s/1hySq6bXcZP12WTg-ukFnOA?pwd=e8fm">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1pFTLUklIknTazA3jgNc7Kg?pwd=5xhd">weight</a></td>
     </tr>
     <tr>
       <td>DQEF-Net-S</td>
@@ -89,7 +89,7 @@
       <td>60.4</td>
       <td>91.7</td>
       <td>68.8</td>
-      <td><a href="https://pan.baidu.com/s/1ka7D4E71CMXBwDhz3gpXOw?pwd=f3ak">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1VQZyIhzROvzcFNuSndo2Hg?pwd=esm9">weight</a></td>
     </tr>
     <tr>
       <td>DQEF-Net-M</td>
@@ -100,7 +100,7 @@
       <td>62.0</td>
       <td>92.6</td>
       <td>70.8</td>
-      <td><a href="https://pan.baidu.com/s/1TC71JOBn_mgWrmv6ZhSQ2w?pwd=k5jq">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/10M4eFKtz-xpWRoZvpqoXLg?pwd=4irr">weight</a></td>
     </tr>
     <tr>
       <td>DQEF-Net-L</td>
@@ -111,7 +111,7 @@
       <td>62.2</td>
       <td>92.7</td>
       <td>71.7</td>
-      <td><a href="https://pan.baidu.com/s/1pITBN9lTtWW9Zx6jA5xUdA?pwd=aurc">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1pp2OKEsAdtOH95TPffYayw?pwd=r2jd">weight</a></td>
     </tr>
     <tr>
       <td>DQEF-Net-X</td>
@@ -122,7 +122,7 @@
       <td>63.0</td>
       <td>93.2</td>
       <td>72.2</td>
-      <td><a href="https://pan.baidu.com/s/1ml-ihrPirE24wTlU77rliw?pwd=qukr">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/19_H5r_AC-o1FOLpbKV4frA?pwd=8bh8">weight</a></td>
     </tr>
   </tbody>
 </table>
@@ -222,7 +222,7 @@ This project utilizes the [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti
 ```
 
 
-This project also utilizes the [Det-Fly](https://github.com/wangdongdut/DUT-Anti-UAV) dataset for training and evaluation.
+This project also utilizes the [Det-Fly](https://github.com/Jake-WU/Det-Fly) dataset for training and evaluation.
 
 ```
 @article{Det-Fly,
