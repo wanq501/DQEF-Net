@@ -41,12 +41,12 @@
       <td><a href="XXX">link</a></td>
     </tr>
     <tr>
-      <td>Det-Fly</td>
+      <td><a href="https://github.com/wangdongdut/DUT-Anti-UAV">Det-Fly</a></td>
       <td align="left">Contains over 13,000 high-resolution 4K aerial images. Long-range imaging causes targets to occupy &lt;5% of image area, reducing discriminative features.</td>
       <td>7,962</td>
       <td>2,654</td>
       <td>2,654</td>
-      <td><a href="XXX">link</a></td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
