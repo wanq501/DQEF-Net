@@ -50,7 +50,7 @@
     </tr>
   </tbody>
 </table>
-<img src="Assets/fig2.png" width="1500">
+<img src="Assets/fig2.jpg" width="1500">
 
 ## Model Zoo  
 
