@@ -13,6 +13,45 @@
 
 ## DataSet  
 
+<table>
+  <thead align="center">
+    <tr>
+      <th>Database</th>
+      <th>Description</th>
+      <th>Train Images</th>
+      <th>Val Images</th>
+      <th>Test Images</th>
+      <th>BaiduYun Download</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>DUT-Adv</td>
+      <td>Augments DUT Anti-UAV with real-world degradations such as rain, fog, and motion blur that reduce contrast and obscure target edges.</td>
+      <td>5,200</td>
+      <td>1,600</td>
+      <td>1,200</td>
+      <td><a href="XXX">link</a></td>
+    </tr>
+    <tr>
+      <td>DUT-Plus</td>
+      <td>Extends DUT Anti-UAV with multi-target scenes and distractors (birds, aircraft) as hard negatives to reduce false positives.</td>
+      <td>7,000</td>
+      <td>4,000</td>
+      <td>3,000</td>
+      <td><a href="XXX">link</a></td>
+    </tr>
+    <tr>
+      <td>Det-Fly</td>
+      <td>Contains over 13,000 high-resolution 4K aerial images. Long-range imaging causes targets to occupy &lt;5% of image area, reducing discriminative features.</td>
+      <td>7,962</td>
+      <td>2,654</td>
+      <td>2,654</td>
+      <td><a href="XXX">link</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Model Zoo  
 
 <table>
