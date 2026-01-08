@@ -10,7 +10,11 @@
 </h1>
 <img src="Assets/fig1.jpg" width="1500">
 
-## DataSet 
+## Code  
+
+## DataSet  
+
+## Model Zoo  
 
 <table>
   <thead align="center">
@@ -29,62 +33,62 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td>QHNet-N</td>
+      <td>DQEF-Net-T</td>
       <td>640</td>
       <td>200</td>
-      <td>2.8</td>
-      <td>12.0</td>
-      <td>57.1</td>
-      <td>88.9</td>
-      <td>65.9</td>
+      <td>2.9</td>
+      <td>9.4</td>
+      <td>58.1</td>
+      <td>89.4</td>
+      <td>66.4</td>
       <td><a href="https://pan.baidu.com/s/1hySq6bXcZP12WTg-ukFnOA?pwd=e8fm">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
-      <td>QHNet-S</td>
+      <td>DQEF-Net-S</td>
       <td>640</td>
       <td>200</td>
-      <td>10.4</td>
-      <td>35.1</td>
-      <td>60.2</td>
-      <td>91.2</td>
-      <td>70.1</td>
+      <td>10.6</td>
+      <td>24.3</td>
+      <td>60.4</td>
+      <td>91.7</td>
+      <td>68.8</td>
       <td><a href="https://pan.baidu.com/s/1ka7D4E71CMXBwDhz3gpXOw?pwd=f3ak">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
-      <td>QHNet-M</td>
+      <td>DQEF-Net-M</td>
       <td>640</td>
       <td>200</td>
-      <td>17.9</td>
-      <td>71.1</td>
-      <td>62.1</td>
-      <td>92.8</td>
-      <td>71.4</td>
+      <td>21.8</td>
+      <td>68.1</td>
+      <td>62.0</td>
+      <td>92.6</td>
+      <td>70.8</td>
       <td><a href="https://pan.baidu.com/s/1TC71JOBn_mgWrmv6ZhSQ2w?pwd=k5jq">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
-      <td>QHNet-L</td>
+      <td>DQEF-Net-L</td>
       <td>640</td>
       <td>200</td>
-      <td>24.0</td>
-      <td>120.4</td>
-      <td>63.1</td>
-      <td>93.2</td>
-      <td>71.9</td>
+      <td>32.6</td>
+      <td>81.6</td>
+      <td>62.2</td>
+      <td>92.7</td>
+      <td>71.7</td>
       <td><a href="https://pan.baidu.com/s/1pITBN9lTtWW9Zx6jA5xUdA?pwd=aurc">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
-      <td>QHNet-X</td>
+      <td>DQEF-Net-X</td>
       <td>640</td>
       <td>200</td>
-      <td>37.1</td>
-      <td>183.8</td>
-      <td>64.0</td>
-      <td>93.8</td>
-      <td>74.3</td>
+      <td>65.2</td>
+      <td>172.6</td>
+      <td>63.0</td>
+      <td>93.2</td>
+      <td>72.2</td>
       <td><a href="https://pan.baidu.com/s/1ml-ihrPirE24wTlU77rliw?pwd=qukr">weight</a></td>
       <td>---</td>
     </tr>
