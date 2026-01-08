@@ -208,4 +208,30 @@ This project is based on the open source codebase [YOLO (Ultralytics)](https://g
 ```
 
 
+This project utilizes the [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) dataset to create new augmented datasets for training and evaluation.
 
+```
+@article{Dut-Anti-UAV,
+  title={Vision-Based Anti-UAV Detection and Tracking},
+  author={Jie Zhao and Jingshu Zhang and Dongdong Li and D. Wang},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2022},
+  volume={23},
+  pages={25323-25334}
+}
+```
+
+
+This project also utilizes the [Det-Fly](https://github.com/wangdongdut/DUT-Anti-UAV) dataset for training and evaluation purposes.
+
+```
+@article{Det-Fly,
+  title={Air-to-Air Visual Detection of Micro-UAVs: An Experimental Evaluation of Deep Learning},
+  author={Ye Zheng and Zhang Chen and Dailin Lv and Zhixing Li and Zhenzhong Lan and Shiyu Zhao},
+  journal={IEEE Robotics and Automation Letters},
+  year={2021},
+  volume={6},
+  pages={1020-1027}
+}
+
+```
