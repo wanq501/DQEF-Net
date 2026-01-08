@@ -10,7 +10,7 @@
 </h1>
 <img src="ultralytics/assets/fig1.jpg" width="1500">
 
-## Model Zoo 
+## DataSet 
 
 <table>
   <thead align="center">
@@ -101,8 +101,8 @@
 1. Clone and enter the repo.
 
    ```shell
-   git clone https://github.com/wanq501/QHNet.git
-   cd QHNet
+   git clone https://github.com/wanq501/DQEF-Net.git
+   cd DQEF-Net
    ```
 
 2. Install dependencies
@@ -148,23 +148,18 @@
 If you find our repo useful for your research, please cite us:
 
 ```
-@ARTICLE{QHNet,
-  author={Wan, Qian and Feng, Li and Xiao, Zhiwen and Zhu, Zonghai and Xing, Huanlai and Tian, Yunong and Feng, Yurui and Wei, Zong},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={QHNet: A Novel Quad-Head Network for Real-Time Detection of Intruding Drones}, 
-  year={2025},
-  doi={10.1109/TGRS.2025.3567751}}
+
 
 ```
 
 This project is based on the open source codebase [YOLO (Ultralytics)](https://github.com/ultralytics).
 
 ```
-@misc{YOLOv8,
+@misc{YOLOv11,
   author={Glenn Jocher and Ayush Chaurasia and Jing Qiu},
-  title={YOLOv8 by Ultralytics},
-  version={8.0.0},
-  year={2023},
+  title={YOLOv11 by Ultralytics},
+  version={11.0.0},
+  year={2025},
   month={jan},
   license={AGPL-3.0},
   url={https://github.com/ultralytics/ultralytics}
