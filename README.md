@@ -1,5 +1,5 @@
 <h1> 
-  <p align=center> QHNet: A Novel Quad-Head Network for Real-Time Detection of Intruding Drones </p>
+  <p align=center> DQEF-Net: A Dynamic Quad-scale Enhancement and Fusion Network for Real-Time Drone Detection </p>
 <div align="center">
 
 ![Python 3.9](https://img.shields.io/badge/python-3.9-g)
