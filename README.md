@@ -28,7 +28,7 @@
       <th>$AP_{50}$</th>
       <th>$AP_{75}$</th>
       <th>BaiduYun Download</th>
-      <th>Google Download</th>
+
     </tr>
   </thead>
   <tbody align="center">
@@ -42,7 +42,7 @@
       <td>89.4</td>
       <td>66.4</td>
       <td><a href="https://pan.baidu.com/s/1hySq6bXcZP12WTg-ukFnOA?pwd=e8fm">weight</a></td>
-      <td>---</td>
+   
     </tr>
     <tr>
       <td>DQEF-Net-S</td>
@@ -54,7 +54,7 @@
       <td>91.7</td>
       <td>68.8</td>
       <td><a href="https://pan.baidu.com/s/1ka7D4E71CMXBwDhz3gpXOw?pwd=f3ak">weight</a></td>
-      <td>---</td>
+
     </tr>
     <tr>
       <td>DQEF-Net-M</td>
@@ -66,7 +66,7 @@
       <td>92.6</td>
       <td>70.8</td>
       <td><a href="https://pan.baidu.com/s/1TC71JOBn_mgWrmv6ZhSQ2w?pwd=k5jq">weight</a></td>
-      <td>---</td>
+
     </tr>
     <tr>
       <td>DQEF-Net-L</td>
@@ -78,7 +78,7 @@
       <td>92.7</td>
       <td>71.7</td>
       <td><a href="https://pan.baidu.com/s/1pITBN9lTtWW9Zx6jA5xUdA?pwd=aurc">weight</a></td>
-      <td>---</td>
+  
     </tr>
     <tr>
       <td>DQEF-Net-X</td>
@@ -90,7 +90,7 @@
       <td>93.2</td>
       <td>72.2</td>
       <td><a href="https://pan.baidu.com/s/1ml-ihrPirE24wTlU77rliw?pwd=qukr">weight</a></td>
-      <td>---</td>
+    
     </tr>
   </tbody>
 </table>
