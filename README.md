@@ -31,7 +31,7 @@
       <td>5,200</td>
       <td>1,600</td>
       <td>1,200</td>
-      <td><a href="https://pan.baidu.com/s/1FMrIsNS_WPx9fzPDl4ni_Q?">link</a></td>
+      <td><a href="https://pan.baidu.com/s/16m355KcTOcj8NBVUPGcY5w">link</a></td>
       <td>---</td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@
       <td>7,000</td>
       <td>4,000</td>
       <td>3,000</td>
-      <td><a href="https://pan.baidu.com/s/1FMrIsNS_WPx9fzPDl4ni_Q?">link</a></td>
+      <td><a href="https://pan.baidu.com/s/16m355KcTOcj8NBVUPGcY5w">link</a></td>
       <td>---</td>
     </tr>
     <tr>
