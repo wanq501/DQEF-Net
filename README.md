@@ -27,7 +27,7 @@
   <tbody align="center">
     <tr>
       <td>DUT-Adv</td>
-      <td>Augments DUT Anti-UAV with real-world degradations such as rain, fog, and motion blur that reduce contrast and obscure target edges.</td>
+      <td align="left">Augments [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) dataset with real-world degradations such as rain, fog, and motion blur that reduce contrast and obscure target edges.</td>
       <td>5,200</td>
       <td>1,600</td>
       <td>1,200</td>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td>DUT-Plus</td>
-      <td>Extends DUT Anti-UAV with multi-target scenes and distractors (birds, aircraft) as hard negatives to reduce false positives.</td>
+      <td align="left">Extends [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) dataset with multi-target scenes and distractors (birds, aircraft) as hard negatives to reduce false positives.</td>
       <td>7,000</td>
       <td>4,000</td>
       <td>3,000</td>
@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td>Det-Fly</td>
-      <td>Contains over 13,000 high-resolution 4K aerial images. Long-range imaging causes targets to occupy &lt;5% of image area, reducing discriminative features.</td>
+      <td align="left">Contains over 13,000 high-resolution 4K aerial images. Long-range imaging causes targets to occupy &lt;5% of image area, reducing discriminative features.</td>
       <td>7,962</td>
       <td>2,654</td>
       <td>2,654</td>
@@ -127,7 +127,7 @@
   </tbody>
 </table>
 
-- Results of the mAP are evaluated on the DUT-Plus dataset (an augmented version of the [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) dataset) with an input resolution of 640×640.
+- Results of the mAP are evaluated on the DUT-Plus dataset with an input resolution of 640×640.
 - All models are trained without using pretrained weights.
 
 
