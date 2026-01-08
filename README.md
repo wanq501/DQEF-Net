@@ -21,6 +21,7 @@
       <th>Val Images</th>
       <th>Test Images</th>
       <th>BaiduYun Download</th>
+      <th>Google Download</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -31,6 +32,7 @@
       <td>1,600</td>
       <td>1,200</td>
       <td><a href="https://pan.baidu.com/s/1FMrIsNS_WPx9fzPDl4ni_Q?pwd=dfyi">link</a></td>
+      <td>---</td>
     </tr>
     <tr>
       <td>DUT-Plus</td>
@@ -39,6 +41,7 @@
       <td>4,000</td>
       <td>3,000</td>
       <td><a href="https://pan.baidu.com/s/1FMrIsNS_WPx9fzPDl4ni_Q?pwd=dfyi">link</a></td>
+      <td>---</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Jake-WU/Det-Fly">Det-Fly</a></td>
@@ -46,7 +49,8 @@
       <td>7,962</td>
       <td>2,654</td>
       <td>2,654</td>
-      <td>--</td>
+      <td>---</td>
+      <td>---</td>
     </tr>
   </tbody>
 </table>
@@ -66,6 +70,7 @@
       <th>$AP_{50}$</th>
       <th>$AP_{75}$</th>
       <th>BaiduYun Download</th>
+      <th>Google Download</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -79,6 +84,7 @@
       <td>89.4</td>
       <td>66.4</td>
       <td><a href="https://pan.baidu.com/s/1pFTLUklIknTazA3jgNc7Kg?pwd=5xhd">weight</a></td>
+      <td>---</td>
     </tr>
     <tr>
       <td>DQEF-Net-S</td>
@@ -90,6 +96,7 @@
       <td>91.7</td>
       <td>68.8</td>
       <td><a href="https://pan.baidu.com/s/1VQZyIhzROvzcFNuSndo2Hg?pwd=esm9">weight</a></td>
+      <td>---</td>
     </tr>
     <tr>
       <td>DQEF-Net-M</td>
@@ -101,6 +108,7 @@
       <td>92.6</td>
       <td>70.8</td>
       <td><a href="https://pan.baidu.com/s/10M4eFKtz-xpWRoZvpqoXLg?pwd=4irr">weight</a></td>
+      <td>---</td>
     </tr>
     <tr>
       <td>DQEF-Net-L</td>
@@ -112,6 +120,7 @@
       <td>92.7</td>
       <td>71.7</td>
       <td><a href="https://pan.baidu.com/s/1pp2OKEsAdtOH95TPffYayw?pwd=r2jd">weight</a></td>
+      <td>---</td>
     </tr>
     <tr>
       <td>DQEF-Net-X</td>
@@ -123,6 +132,7 @@
       <td>93.2</td>
       <td>72.2</td>
       <td><a href="https://pan.baidu.com/s/19_H5r_AC-o1FOLpbKV4frA?pwd=8bh8">weight</a></td>
+      <td>---</td>
     </tr>
   </tbody>
 </table>
