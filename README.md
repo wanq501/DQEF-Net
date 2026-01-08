@@ -140,6 +140,11 @@
 
 - Note: Each script includes detailed instructions on how to set parameters and use the script properly.
 
+
+## Code  
+The code will be made public shortly after the acceptance of the paper.
+
+
 ## Citation
 
 If you find our repo useful for your research, please cite us:
@@ -162,8 +167,7 @@ This project is based on the open source codebase [YOLO (Ultralytics)](https://g
   url={https://github.com/ultralytics/ultralytics}
 }
 ```
-## Code  
-The code will be made public shortly after the acceptance of the paper.
+
 
 
 
