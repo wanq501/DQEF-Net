@@ -222,7 +222,7 @@ This project utilizes the [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti
 ```
 
 
-This project also utilizes the [Det-Fly](https://github.com/wangdongdut/DUT-Anti-UAV) dataset for training and evaluation purposes.
+This project also utilizes the [Det-Fly](https://github.com/wangdongdut/DUT-Anti-UAV) dataset for training and evaluation.
 
 ```
 @article{Det-Fly,
@@ -233,5 +233,4 @@ This project also utilizes the [Det-Fly](https://github.com/wangdongdut/DUT-Anti
   volume={6},
   pages={1020-1027}
 }
-
 ```
