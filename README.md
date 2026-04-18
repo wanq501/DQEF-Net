@@ -2,8 +2,8 @@
   <p align=center> DQEF-Net: A Dynamic Quad-scale Enhancement and Fusion Network for Real-Time Drone Detection </p>
 <div align="center">
 
-![Python 3.9](https://img.shields.io/badge/python-3.9-g)
-![pytorch 1.12.1](https://img.shields.io/badge/pytorch-1.12.1-blue.svg)
+![Python 3.10](https://img.shields.io/badge/python-3.10-g)
+![pytorch 2.1.0](https://img.shields.io/badge/pytorch-2.1.0-blue.svg)
 [![docs](https://img.shields.io/badge/docs-latest-blue)](README.md)
 
 </div>
