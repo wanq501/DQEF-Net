@@ -40,7 +40,7 @@
       <td>7,000</td>
       <td>4,000</td>
       <td>3,000</td>
-      <td>---</td>
+      <td><a href="https://github.com/wanq501/DUT-Plus">link</a></td>
       <td>---</td>
     </tr>
     <tr>
