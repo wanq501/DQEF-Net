@@ -170,7 +170,7 @@
 2. Evaluation
 
    ```shell
-   python tools/val.py
+   python 003_val.py
    ```
 
 
@@ -178,13 +178,13 @@
 3. Test
 
    ```shell
-   python tools/test.py
+   python 001_test.py
    ```
 
-4. Detect
+4. Val
 
    ```shell
-   python tools/detect.py
+   python 003_val.py
    ```
 
 - Note: Each script includes detailed instructions on how to set parameters and use the script properly.
