@@ -193,7 +193,12 @@ The code will be made public shortly after the acceptance of the paper.
 If you find our repo useful for your research, please cite us:
 
 ```
-
+@article{DQCF-Net,
+  title={DQEF-Net: A Dynamic Quad-scale Enhancement and Fusion Network for Real-Time Drone Detection},
+  author={Qian Wan, Li Feng, Zhiwen Xiao, Zonghai Zhu, Huanlai Xing, Yunong Tian, Yurui Feng, Zong We},
+  journal={Expert Systems with Applications},
+  year={2026},
+}
 
 ```
 
