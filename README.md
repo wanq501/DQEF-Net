@@ -163,7 +163,7 @@
 
 
    ```shell
-   python tools/train.py
+   python 002_train.py
    ```
 
 
@@ -179,12 +179,6 @@
 
    ```shell
    python 001_test.py
-   ```
-
-4. Val
-
-   ```shell
-   python 003_val.py
    ```
 
 - Note: Each script includes detailed instructions on how to set parameters and use the script properly.
