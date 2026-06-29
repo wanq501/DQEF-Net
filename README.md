@@ -193,6 +193,7 @@ If you find our repo useful for your research, please cite us:
   author={Qian Wan, Li Feng, Zhiwen Xiao, Zonghai Zhu, Huanlai Xing, Yunong Tian, Yurui Feng, Zong We},
   journal={Expert Systems with Applications},
   year={2026},
+  doi={10.1016/j.eswa.2026.133389},
 }
 ```
 
