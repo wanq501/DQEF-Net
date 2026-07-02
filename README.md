@@ -83,7 +83,7 @@
       <td>58.1</td>
       <td>89.4</td>
       <td>66.4</td>
-      <td><a href="https://pan.baidu.com/s/1pFTLUklIknTazA3jgNc7Kg?%pwd=">weight</a></td> 
+      <td><a href="https://pan.baidu.com/s/1pFTLUklIknTazA3jgNc7Kg">weight</a></td> 
       <td>---</td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@
       <td>60.4</td>
       <td>91.7</td>
       <td>68.8</td>
-      <td><a href="https://pan.baidu.com/s/1VQZyIhzROvzcFNuSndo2Hg?pwd=esm9">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1VQZyIhzROvzcFNuSndo2Hg">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@
       <td>62.0</td>
       <td>92.6</td>
       <td>70.8</td>
-      <td><a href="https://pan.baidu.com/s/10M4eFKtz-xpWRoZvpqoXLg?pwd=4irr">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/10M4eFKtz-xpWRoZvpqoXLg">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@
       <td>62.2</td>
       <td>92.7</td>
       <td>71.7</td>
-      <td><a href="https://pan.baidu.com/s/1pp2OKEsAdtOH95TPffYayw?pwd=r2jd">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1pp2OKEsAdtOH95TPffYayw">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@
       <td>63.0</td>
       <td>93.2</td>
       <td>72.2</td>
-      <td><a href="https://pan.baidu.com/s/19_H5r_AC-o1FOLpbKV4frA?pwd=8bh8">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/19_H5r_AC-o1FOLpbKV4frA">weight</a></td>
       <td>---</td>
     </tr>
   </tbody>
